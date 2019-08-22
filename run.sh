@@ -19,6 +19,5 @@ do
 	cp $FILE $VIMDIR
 	break
 done
-vim ./run.sh
 exit
 
