@@ -16,6 +16,7 @@ do
 			echo $CHILD FOUND
 		fi
 	done 
+	mkdir -p $VIMDIR
 	cp $FILE $VIMDIR
 	break
 done

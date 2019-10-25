@@ -18,4 +18,4 @@ I would start by grabbing the themes at https://github.com/rafi/awesome-vim-colo
 git clone https://github.com/Gelmes/vimThemer.git
 sudo chmod +x vimThemer/run.sh
 git clone https://github.com/rafi/awesome-vim-colorschemes
-./vimThemer/run.sh ./awesome-vim-colorschemes/colors
+./vimThemer/run.sh ./awesome-vim-colorschemes/colors/
